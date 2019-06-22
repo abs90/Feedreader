@@ -95,7 +95,7 @@ $(function() {
     });
 
     it('Feed container has an entry', function(done){
-      let entryValue = $('.entry').length;
+      const entryValue = $('.feed .entry').length;
       expect(entryValue).toBeGreaterThan(0);
       done();
     });
