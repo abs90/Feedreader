@@ -29,6 +29,6 @@ Test suite 4: New Feed Selection:
 
 - Feed content changes when new feed is selected (i.e. every time we refresh or add a new feed)
 
-#Instructions
+## Instructions
 
 To view & test using the feedreader website download all the files and open index.html in your browser.
